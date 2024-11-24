@@ -1,0 +1,2 @@
+arquivo criado para teste do git 
+timestamp 2024 11 23 21:33:00
